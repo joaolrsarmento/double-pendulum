@@ -1,1 +1,2 @@
-# double-pendulum
+# Double-Pendulum
+
